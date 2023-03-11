@@ -23,5 +23,11 @@
   "exclude": [
     "node_modules",
     "typings"
-  ]
+  ],
+    // ...
+    "angularCompilerOptions": {
+      // ...
+      "disableTypeScriptVersionCheck": true
+    }
+  
 }
