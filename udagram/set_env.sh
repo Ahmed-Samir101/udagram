@@ -7,5 +7,7 @@ export POSTGRES_DB=postgres
 export AWS_BUCKET=arn:aws:s3:::myawsbucket5775
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
+export AWS_ACCESS_KEY_ID=AKIAVFL5FVVORDTP7EMG
+export AWS_SECRET_ACCESS_KEY=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
 export JWT_SECRET=mysecretstring
 export URL=http://localhost:8100
